@@ -1,7 +1,7 @@
 package com.gof.test;
 
-import com.gof.biz.Evolution;
 import com.gof.data.Generation;
+import com.gof.services.Evolution;
 
 public class Test {
 	

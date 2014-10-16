@@ -1,7 +1,9 @@
+package com.gof.services.test;
+
 import org.junit.Test;
 
-import com.gof.biz.Evolution;
 import com.gof.data.Generation;
+import com.gof.services.Evolution;
 
 import static org.junit.Assert.*;
 

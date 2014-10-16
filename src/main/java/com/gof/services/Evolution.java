@@ -1,4 +1,4 @@
-package com.gof.biz;
+package com.gof.services;
 
 import com.gof.data.Generation;
 import com.gof.data.State;
