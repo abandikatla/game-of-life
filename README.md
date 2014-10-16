@@ -31,25 +31,6 @@ Input 2:
 
 -X-
 
--X-
-
--X-
-
- 
-
-Output 2:
-
-- - -
-
-X X X
-
-- - -
-_______________
-
-Input 3:
-
--X-
-
 XXX
 
 X-X
@@ -58,7 +39,7 @@ X-X
 
  
 
-Output 3:
+Output 2:
 
 XXX
 
